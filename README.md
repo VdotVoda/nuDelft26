@@ -1,5 +1,5 @@
-# ![alt tag](https://github.com/liminalFrog/nuDelft/blob/master/logo.svg) nuDelft
-Continuation of Faenza icon theme with up to date app icons 
+# ![alt tag](https://github.com/liminalFrog/nuDelft/blob/master/logo.svg) nuDelft26
+Continuation of the continuation of the Faenza icon theme with up to date app icons 
 
 # ![alt tag](https://github.com/liminalFrog/nuDelft/blob/master/logo.jpg)
 
