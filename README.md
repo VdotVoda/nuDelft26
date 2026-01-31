@@ -4,7 +4,7 @@ Continuation of the continuation of the Faenza icon theme with up to date app ic
 # ![alt tag](https://github.com/liminalFrog/nuDelft/blob/master/logo.jpg)
 
 ## Warning
-Vaking Voda is actually a noob at verctor art!
+Vaking Voda is actually a noob at verctor art and GitHub!
 
 ## Installation
 Clone or download the repo and move the containing folders to your `~/.local/share/icons` directory, or to `/usr/share/icons` (needs root access).
