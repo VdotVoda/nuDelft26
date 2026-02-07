@@ -21,7 +21,6 @@ Including:
 * Docker Desktop Manager
 * ONLYOFFICE
 * Thunderbird (Update with new bird logo)
-* FreeTube
 * JupyterLab Desktop
 * Mission Center
 * Turtle (Git repo manager)
