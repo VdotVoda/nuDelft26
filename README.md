@@ -15,7 +15,6 @@ Clone or download the repo and move the containing folders to your `~/.local/sha
 
 ## New Icons
 Including:
-* Gnome Calls
 * DIY Layout Creator (DIYLC)
 * Gnome Timer
 * Docker Desktop Manager
