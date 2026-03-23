@@ -19,7 +19,5 @@ Including:
 * Gnome Timer
 * Docker Desktop Manager
 * ONLYOFFICE
-* Thunderbird (Update with new bird logo)
 * JupyterLab Desktop
-* Mission Center
 * Turtle (Git repo manager)
